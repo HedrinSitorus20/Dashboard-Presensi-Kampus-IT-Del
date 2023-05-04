@@ -7,6 +7,17 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Dashboard Presensi
+Dashboard Presensi merupakan halaman antar muka berbasis web yang digunakan untuk mengelola kehadiran mahasiswa yang diinputkan oleh dosen di kelas. Selain itu, menampilkan rekapitulasi keluar-masuk mahasiswa berasrama luar yang masuk ke kampus di saat jam akademik. Dashboard presensi akan menyediakan fitur-filter yang ditampilkan dibagi menjadi 5 kategori, yaitu perminggu, perbulan, persemester, perangkatan, dan perprodi. Filter yang akan membantu BAAK merekap data kehadiran mahasiswa sehingga BAAK dapat dengan mudah membuat laporan yang akan diberikan kepada dekan. 
+
+Kelompok 4:
+1. Chantika N. Pardosi_11S20013
+2. Ruth A. Silalahi_11S20018
+3. Hedrin S. Sitorus_11S20019
+4. Bryand C. Sinaga_11S20027
+5. Sri R. Saragih_11S20040
+6. Putri R. B. Siahaan_11S20019
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
